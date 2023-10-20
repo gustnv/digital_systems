@@ -4,12 +4,12 @@ Gabriel Salmoria 23100466
 Gustavo Nunes Viana 23100479
 
 
-###### obs:
+##### obs:
 ![SAD](images/sad.png)
 # SAD **V1**
-######representação do bloco de controle
+##### representação do bloco de controle
 ![BC1](images/blocoControleV1.png)
-######representação do bloco operativo
+##### representação do bloco operativo
 ![BO1](images/blocoOperativoV1.png)
 ### Descrição:
 *Somatório das diferenças absolutas, segundo a v1 do exemplo 8.*
@@ -20,9 +20,9 @@ Por meio do arquivo de estímulos, percebe-se que quando iniciar 1, o sistema in
 Como exemplo, quando a entrada mem_A 00000001 e a entrada mem_B 00000101, o resultado da subtração absoluta é igual a 00000100, e com o decorrer dos processos a soma acumulativa recebe todas as diferenças absolutas dos dados vindos das memórias externas, logo, 4(valor)x64(ciclos) = 256.
 
 # SAD **V3**
-######representação do bloco de controle
+##### representação do bloco de controle
 ![BC3](images/blocoControleV3.png)
-######representação do bloco operativo
+##### representação do bloco operativo
 ![BO3](images/blocoOperativoV3.png)
 ### Descrição:
 *Somatório das diferenças absolutas, segundo a v3 do exemplo 8.*
